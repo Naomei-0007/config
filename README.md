@@ -1,3 +1,3 @@
 # config
 
-try
+try a
